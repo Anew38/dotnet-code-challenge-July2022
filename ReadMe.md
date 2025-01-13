@@ -1,3 +1,7 @@
+#This is my submission to the mindex coding challenge! The solution is not perfect but 
+# I did follow the requirements below and create all necessary classes and files needed.
+# Setbacks came from build issues and something with the database
+
 # Mindex Coding Challenge
 ## What's Provided
 A simple [.Net 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) web application has been created and bootstrapped 
