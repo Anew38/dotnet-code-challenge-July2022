@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\repositories\\employeerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\repositories\\employeerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\services\\icompensationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\services\\icompensationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\data\\compensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\data\\compensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj|solutionrelative:codechallenge.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge.tests\\compensationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj|solutionrelative:codechallenge.tests\\compensationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|c:\\users\\anewlan\\desktop\\endpoint-practice\\codechallenge\\data\\reportingstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\data\\reportingstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 923,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CodeChallenge\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:45:33.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRespository.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Repositories\\EmployeeRespository.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Repositories\\EmployeeRespository.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Repositories\\EmployeeRespository.cs",
+              "RelativeToolTip": "CodeChallenge\\Repositories\\EmployeeRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:43:12.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "CodeChallenge\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:30:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompensationControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge.Tests\\CompensationControllerTests.cs",
+              "RelativeDocumentMoniker": "CodeChallenge.Tests\\CompensationControllerTests.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge.Tests\\CompensationControllerTests.cs",
+              "RelativeToolTip": "CodeChallenge.Tests\\CompensationControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:25:50.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge.Tests\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "CodeChallenge.Tests\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge.Tests\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "CodeChallenge.Tests\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwEcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:56:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "CodeChallenge\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:11:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICompensationService.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Services\\ICompensationService.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Services\\ICompensationService.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Services\\ICompensationService.cs",
+              "RelativeToolTip": "CodeChallenge\\Services\\ICompensationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:09:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompensationController.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Controllers\\CompensationController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Controllers\\CompensationController.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Controllers\\CompensationController.cs",
+              "RelativeToolTip": "CodeChallenge\\Controllers\\CompensationController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:03:16.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CodeChallenge\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:35:54.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeChallenge\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:59:00.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compensation.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Data\\Compensation.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Data\\Compensation.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Data\\Compensation.cs",
+              "RelativeToolTip": "CodeChallenge\\Data\\Compensation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:54:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportingStructure.cs",
+              "DocumentMoniker": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Data\\ReportingStructure.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Data\\ReportingStructure.cs",
+              "ToolTip": "C:\\Users\\anewlan\\Desktop\\endpoint-practice\\CodeChallenge\\Data\\ReportingStructure.cs",
+              "RelativeToolTip": "CodeChallenge\\Data\\ReportingStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:15:54.056Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 943,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
